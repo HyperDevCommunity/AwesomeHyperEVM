@@ -6,6 +6,25 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 
 ---
 
+## 📋 Contents
+
+- [Documentation & Onboarding Guides](#-documentation--onboarding-guides)
+- [Developer Tooling](#-developer-tooling)
+- [Wallets & Key Management](#-wallets--key-management)
+- [RPC Endpoints](#-rpc-endpoints)
+- [Oracles, Precompiles & Data](#-oracles-precompiles--data)
+- [Cross-Chain & Bridges](#-cross-chain--bridges)
+- [Ecosystem Projects & dApps](#-ecosystem-projects--dapps)
+  - [DeFi](#-defi)
+  - [Analytics & Trading Tools](#-analytics--trading-tools)
+  - [Infra & Tooling](#-infra--tooling)
+  - [Meme Coins & Fun](#-meme-coins--fun)
+- [Integrations](#-integrations)
+- [Community](#-community)
+- [Contributing](#-contributing)
+
+---
+
 ## 📚 Documentation & Onboarding Guides
 
 * 🔗 [HyperEVM Developer Docs](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm)
@@ -116,13 +135,14 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 ## 🤝 Community
 
 * [**Hyperliquid Discord**](https://discord.com/invite/hyperliquid)
-* [**Okto Discord**](https://discord.com/invite/okto-916349620383252511)
 * [**@HyperFND on Twitter**](https://twitter.com/hyperfnd)
 * [**GitHub**](https://github.com/hyperliquid-labs)
 * Ecosystem community: `#builders`, `#hyperevm`, `#ecosystem`
 
 ---
 
-## 📜 License
+## 👥 Contributing
 
-Open-source under the MIT License. See LICENSE.
+We welcome contributions from the community! Whether you're adding a new tool, updating information, or fixing errors, your help makes this resource better for everyone.
+
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
