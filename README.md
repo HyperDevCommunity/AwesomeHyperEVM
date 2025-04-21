@@ -29,14 +29,17 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 
 * 🔗 [HyperEVM Developer Docs](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm)
 * 🔗 [Getting Started with HyperEVM](https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/how-to-use-the-hyperevm)
-* 🔗 [Hyperliquid Python SDK](https://github.com/hyperliquid-markets/hyperliquid-python-sdk)
+* 🔗 [Hyperliquid Python SDK](https://github.com/hyperliquid-dex/hyperliquid-python-sdk)
 * 🔗 [Chainlink-style Oracle Integration (HyperLend)](https://github.com/hyperliquid-labs/hyperevm-oracle)
 
 ---
 
 ## 🧪 Developer Tooling
 
-* [**Hyperliquid Python SDK**](https://github.com/hyperliquid-markets/hyperliquid-python-sdk) – Interface with Hyperliquid & HyperEVM
+* [**Hyperliquid Python SDK**](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) – SDK for Hyperliquid API trading with Python
+* [**Hyperliquid Rust SDK**](https://github.com/hyperliquid-dex/hyperliquid-rust-sdk) – SDK for Hyperliquid API trading with Rust
+* [**Hyperliquid TypeScript SDK (nomeida)**](https://github.com/nomeida/hyperliquid) – Community-built TypeScript SDK for Hyperliquid API trading
+* [**Hyperliquid TypeScript SDK (nktkas)**](https://github.com/nktkas/hyperliquid) – Community-built TypeScript SDK for Hyperliquid API trading
 * [**HyperEVM Oracle**](https://github.com/hyperliquid-labs/hyperevm-oracle) – Chainlink-compatible oracle infrastructure
 * [**Okto SDK**](https://okto.tech/) – Wallet SDK for embedded EVM abstraction (multi-chain, gasless)
 * [**HypurrScan**](https://hypurrscan.io/) – Blockchain explorer for HyperEVM
