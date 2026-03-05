@@ -36,6 +36,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 
 ## 🧪 Developer Tooling
 
+* [**Cerebrus Pulse**](https://github.com/0xsl1m/cerebrus-pulse-mcp) – Real-time crypto intelligence API for Hyperliquid perpetuals with Python SDK, MCP server, and LangChain tools
 * [**Hyperliquid Python SDK**](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) – SDK for Hyperliquid API trading with Python
 * [**Hyperliquid Rust SDK**](https://github.com/hyperliquid-dex/hyperliquid-rust-sdk) – SDK for Hyperliquid API trading with Rust
 * [**Hyperliquid TypeScript SDK (nomeida)**](https://github.com/nomeida/hyperliquid) – Community-built TypeScript SDK for Hyperliquid API trading
