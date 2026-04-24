@@ -104,6 +104,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
 | [Vegas](https://vegas.fi/)                          | Prediction markets      | [Docs](https://docs.vegas.fi/) |
 | [GUESS](https://guess.so/)                          | Community market data   | X                               |
+| [Hypefunding](https://hypefunding.app) | Funding rate dashboard covering 229 main perps + 164 HIP-3 markets across all 7 deployers | X |
 
 ### 🛠️ Infra & Tooling
 
