@@ -94,6 +94,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [Felix Protocol](https://felix.exchange/)         | Options infra                                      | X                                                                       |
 | [Thunderhead](https://www.thunderhead.xyz/)       | Derivatives infra                                  | X                                                                       |
 | [Okto Wallet](https://okto.tech/)                 | Gasless DeFi UX and intent-based trading infra     | [Docs](https://docs.okto.tech/docs)    |
+| [VisionBoard Vault](https://vault.visionboardfinance.com/) | HyperEVM-native ERC-4626 vault and VBV share-token layer for macro-aware trading, Terminal credits, and Predict markets | [Token](https://www.geckoterminal.com/hyperevm/pools/0x8d878c31d03a31d60464d08bd6279e7205853115) |
 
 ### 📊 Analytics & Trading Tools
 
