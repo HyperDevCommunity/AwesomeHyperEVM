@@ -104,6 +104,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
 | [Vegas](https://vegas.fi/)                          | Prediction markets      | [Docs](https://docs.vegas.fi/) |
 | [GUESS](https://guess.so/)                          | Community market data   | X                               |
+| [WizzCrypto](https://wizzcrypto.com)                | Perp analytics for Hyperliquid + CEX/DEX — liquidation maps, funding matrix, MEV check (launching soon) | [X](https://x.com/wizzcryptoapp) |
 
 ### 🛠️ Infra & Tooling
 
