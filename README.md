@@ -94,6 +94,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [Felix Protocol](https://felix.exchange/)         | Options infra                                      | X                                                                       |
 | [Thunderhead](https://www.thunderhead.xyz/)       | Derivatives infra                                  | X                                                                       |
 | [Okto Wallet](https://okto.tech/)                 | Gasless DeFi UX and intent-based trading infra     | [Docs](https://docs.okto.tech/docs)    |
+| [Dexly](https://dexly.trade/) | Mobile app for Hyperliquid perps, spot, tokenized stocks, prediction markets and copy trading | [GitHub](https://github.com/dexlytrade) |
 
 ### 📊 Analytics & Trading Tools
 
@@ -104,6 +105,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
 | [Vegas](https://vegas.fi/)                          | Prediction markets      | [Docs](https://docs.vegas.fi/) |
 | [GUESS](https://guess.so/)                          | Community market data   | X                               |
+| [Dexly Explorer & Leaderboard](https://dexly.trade/) | Free public Hyperliquid explorer and trader leaderboard | X |
 
 ### 🛠️ Infra & Tooling
 
