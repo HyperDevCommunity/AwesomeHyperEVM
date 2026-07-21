@@ -99,11 +99,12 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 
 | Project                                             | Description             | Docs/Links                      |
 | :-------------------------------------------------- | :---------------------- | :------------------------------ |
+| [GUESS](https://guess.so/)                          | Community market data   | X                               |
+| [HyperIndex](https://hyperindex.io/)                | Aggregate trader positioning and material-change alerts | [Proof](https://hyperindex.io/proof.html) |
+| [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
 | [Insilico Terminal](https://insilico.xyz/)          | Terminal + onchain intel | [Docs](https://docs.insilicoterminal.com/documentation)                            |
 | [TradeStream](https://tradestream.xyz/)             | Orderflow analytics     | X                               |
-| [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
 | [Vegas](https://vegas.fi/)                          | Prediction markets      | [Docs](https://docs.vegas.fi/) |
-| [GUESS](https://guess.so/)                          | Community market data   | X                               |
 
 ### 🛠️ Infra & Tooling
 
