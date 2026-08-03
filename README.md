@@ -104,6 +104,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
 | [Vegas](https://vegas.fi/)                          | Prediction markets      | [Docs](https://docs.vegas.fi/) |
 | [GUESS](https://guess.so/)                          | Community market data   | X                               |
+| [whale.ag](https://whale.ag)                        | Non-custodial copy trading + perps terminal; on-chain trader rankings | [Docs](https://docs.whale.ag) |
 
 ### 🛠️ Infra & Tooling
 
