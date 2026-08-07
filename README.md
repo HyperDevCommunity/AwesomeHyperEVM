@@ -94,6 +94,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [Felix Protocol](https://felix.exchange/)         | Options infra                                      | X                                                                       |
 | [Thunderhead](https://www.thunderhead.xyz/)       | Derivatives infra                                  | X                                                                       |
 | [Okto Wallet](https://okto.tech/)                 | Gasless DeFi UX and intent-based trading infra     | [Docs](https://docs.okto.tech/docs)    |
+| [Hypersight](https://hypersight.xyz/)             | Perps, spot & HIP-4 prediction markets frontend with email-based self-custodial wallets | [Docs](https://docs.hypersight.xyz/) |
 
 ### 📊 Analytics & Trading Tools
 
