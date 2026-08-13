@@ -43,6 +43,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 * [**HyperEVM Oracle**](https://github.com/hyperliquid-labs/hyperevm-oracle) – Chainlink-compatible oracle infrastructure
 * [**Okto SDK**](https://okto.tech/) – Wallet SDK for embedded EVM abstraction (multi-chain, gasless)
 * [**HypurrScan**](https://hypurrscan.io/) – Blockchain explorer for HyperEVM
+* [**Hyperliquid Trading Bots**](https://github.com/atlasdetitan/hyperliquid-trading-bots) – Open-source Python trading bots for Hyperliquid perps (grid trading, MA crossover) built on the official Python SDK
 
 ---
 
