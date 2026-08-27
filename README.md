@@ -99,6 +99,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 
 | Project                                             | Description             | Docs/Links                      |
 | :-------------------------------------------------- | :---------------------- | :------------------------------ |
+| [0xArchive](https://0xarchive.io/)                  | Real-time and historical Hyperliquid market data via REST and WebSocket | [Docs](https://docs.0xarchive.io/) |
 | [Insilico Terminal](https://insilico.xyz/)          | Terminal + onchain intel | [Docs](https://docs.insilicoterminal.com/documentation)                            |
 | [TradeStream](https://tradestream.xyz/)             | Orderflow analytics     | X                               |
 | [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
