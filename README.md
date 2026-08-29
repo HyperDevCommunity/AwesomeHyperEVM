@@ -104,6 +104,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [HyperScanner](https://hyperscanner.xyz/)           | Contract explorer       | X                               |
 | [Vegas](https://vegas.fi/)                          | Prediction markets      | [Docs](https://docs.vegas.fi/) |
 | [GUESS](https://guess.so/)                          | Community market data   | X                               |
+| [Pulse Network](https://pulse.theaslangroupllc.com/)          | Pay-per-call HL data for AI agents (funding, HIP-3, whales, token safety) via x402 — native USDC on HyperEVM | [Catalog](https://cryptopulse.theaslangroupllc.com/llms.txt) |
 
 ### 🛠️ Infra & Tooling
 
