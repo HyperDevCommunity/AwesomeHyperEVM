@@ -31,6 +31,8 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 * 🔗 [Getting Started with HyperEVM](https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/how-to-use-the-hyperevm)
 * 🔗 [Hyperliquid Python SDK](https://github.com/hyperliquid-dex/hyperliquid-python-sdk)
 * 🔗 [Chainlink-style Oracle Integration (HyperLend)](https://github.com/hyperliquid-labs/hyperevm-oracle)
+* 🔗 [Hyperliquid Academy (independent guides, EN/RU/ES)](https://hyperliquidacademy.com/)
+
 
 ---
 
