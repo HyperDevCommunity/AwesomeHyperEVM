@@ -140,6 +140,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 * [**Hyperliquid Discord**](https://discord.com/invite/hyperliquid)
 * [**@HyperFND on Twitter**](https://twitter.com/hyperfnd)
 * [**GitHub**](https://github.com/hyperliquid-labs)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 * Ecosystem community: `#builders`, `#hyperevm`, `#ecosystem`
 
 ---
