@@ -149,3 +149,5 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 We welcome contributions from the community! Whether you're adding a new tool, updating information, or fixing errors, your help makes this resource better for everyone.
 
 Please see our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+
+* [PreTxSim](https://github.com/Skywalkingzulu1/pretxsim_poc) - Air-gapped local EVM simulation proxy built on revm.
