@@ -113,6 +113,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | [Omni Network](https://omni.network/)          | Modular chain infra  | [Docs](https://docs.omni.network/)       |
 | [Spectral](https://spectral.finance/)          | On-chain reputation  | [Docs](https://docs.spectrallabs.xyz/)       |
 | [HyBridge](https://hybridge.xyz/)              | Liquidity layer      | X          |
+| [thetickeris.ai MCP](https://thetickeris.ai/mcp) | MCP server: quotes and unsigned buy/sell txs for $AI | [Docs](https://thetickeris.ai/agents.md) |
 
 ### 🐶 Meme Coins & Fun
 
