@@ -121,6 +121,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 | JEFF, RUGMAN, SYLVY, CATBAL, YETI | Community coins native to HyperEVM      |
 | HyperGold, POINTS, MUNCH, POPOTOK | Airdrop-eligible or high-volume memecoins |
 | FANDA, KOBE, ATERNUM, LIQIUNA   | Emerging memecoins from early traders   |
+| [RAT](https://ratracecombat.com) | Token of Rat Race Combat, a free browser brawler with rats in suits ([X](https://x.com/ratracecombat)) |
 
 ---
 
