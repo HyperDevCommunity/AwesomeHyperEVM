@@ -48,6 +48,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 
 ## 🔑 Wallets & Key Management
 
+* [**Oath Wallet**](https://oathwallet.org/) – Native iPhone and iPad wallet with HyperEVM mainnet configuration and [public source code](https://github.com/devdasx/oath-wallet)
 * [**Okto Wallet**](https://okto.tech/) – Chain-abstracted embedded wallet for seamless onboarding & key mgmt
 * [**Wallet Utils (Python)**](https://github.com/hyperliquid-labs/hyperevm-oracle/tree/main/scripts) – CLI utilities for private key & deploy flows
 
