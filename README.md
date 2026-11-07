@@ -55,6 +55,7 @@ A curated list of developer tools, SDKs, dApps, infra, bridges, oracles, and res
 
 ## 🪐 RPC Endpoints
 
+- [BlockVectra](https://blockvectra.com/en/chains/hyperevm_mainnet/?ref=gh-awesome-hyperevm) – HyperEVM mainnet JSON-RPC endpoint without an API key; setup and public method limits.
 * **Mainnet RPC**: `https://rpc.hyperliquid.xyz/evm`
 * **Testnet RPC**: `https://rpc.hyperliquid-testnet.xyz/evm`
 * **Explorer**: [HypurrScan](https://hypurrscan.io/)
